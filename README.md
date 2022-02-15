@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @manochandar-t
+- 👀 I’m interested in the teaching and research
+- 🌱 I’m currently doing research regarding Alzheimer disease
+- 💞️ I’m looking to collaborate on the research for getting the datasets
+- 📫 Can reach me in manochandar.be@gmail.com
